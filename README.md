@@ -20,19 +20,19 @@
 ## 🖼️ Screenshots
 
 #### 1️⃣ Copy Link
-![Copy Link](./screenshots/1_copy.png)
+![Copy Link](./screenshots/1_COPY.png)
 
 #### 2️⃣ Paste in App
-![Paste in App](./screenshots/2_paste.png)
+![Paste in App](./screenshots/2_PASTE.png)
 
 #### 3️⃣ Select the Folder
-![Select Folder](./screenshots/3_select_folder.png)
+![Select Folder](./screenshots/3_SELECT_FOLDER.png)
 
 #### 4️⃣ Click on Download
-![Click Download](./screenshots/4_cliKC.png)
+![Click Download](./screenshots/4_CLIKC.png)
 
 #### 5️⃣ Video has Downloaded
-![Video Downloaded](./screenshots/5_download.png)
+![Video Downloaded](./screenshots/5_DOWNLOAD.png)
 
 ---
 
